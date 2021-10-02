@@ -2,9 +2,9 @@
 
 
 
-- 🔭 I’m currently working on **SpringBoot Angular 8**
+- 🔭 I’m currently working on **SpringBoot And Angular 11**
 - 
-- 🌱 I’m currently learning **MERN-Stack**
+- 🌱 I’m currently learning **Spring Security**
 - 
 - 👯 I’m looking to collaborate on **Web Development**
 - 
