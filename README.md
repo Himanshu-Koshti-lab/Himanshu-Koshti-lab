@@ -17,6 +17,4 @@ Skills: JAVA 8 / SPRINGBOOT / HIBERNATE / HTML / CSS / TYPESCRIPT
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Himanshu-Koshti-lab&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Himanshu-Koshti-lab)  
-
 ![Profile views](https://gpvc.arturio.dev/Himanshu-Koshti-lab)  
