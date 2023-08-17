@@ -2,10 +2,10 @@
 ####  Associate Consultant at Capgemini 
 3+ years experienced Software Engineer highly skilled in Application development across the complete development life cycle of an application. I'm always learning new things and tried to implement in current project which help to maintain productivity and creativity.
 
-Skills: JAVA 8 / SPRINGBOOT / HIBERNATE / HTML / CSS / TYPESCRIPT
+Skills: JAVA 8 / SPRINGBOOT / HIBERNATE / HTML / CSS 
 
-- 🔭 I’m currently working on Spring Boot 
-- 🌱 I’m currently learning Spring Security 
+- 🔭 I’m currently working on Spring Boot and Spring Security
+- 🌱 I’m currently learning GitHub Actions
 - 👯 I’m looking to collaborate on Web Development 
 - 🤔 I’m looking for help with Web Developer Role 
 - 📫 How to reach me: Himanshukoshti74@gmail.com 
