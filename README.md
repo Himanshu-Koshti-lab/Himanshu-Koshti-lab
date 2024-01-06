@@ -1,4 +1,4 @@
-### Hi there 👋, My self Himanshu Koshti
+### Hi there 👋, Myself Himanshu Koshti
 ####  Associate Consultant at Capgemini 
 4+ years experienced Software Engineer highly skilled in Application development across the complete development life cycle of an application. I'm always learning new things and tried to implement in current project which help to maintain productivity and creativity.
 
