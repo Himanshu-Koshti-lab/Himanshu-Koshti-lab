@@ -2,7 +2,7 @@
 ####  Associate Consultant at Capgemini 
 4+ years experienced Software Engineer highly skilled in Application development across the complete development life cycle of an application. I'm always learning new things and tried to implement in current project which help to maintain productivity and creativity.
 
-Skills: JAVA 8 / SPRINGBOOT / SPRING SECURITY / SPRING CLOUD / HTML / CSS 
+Skills: JAVA 8 / SPRINGBOOT / SPRING SECURITY / LOg4J / LOGBACK / HTML / CSS 
 
 - 🔭 I’m currently working on Spring Boot and Spring Security
 - 🌱 I’m currently learning GitHub Actions
