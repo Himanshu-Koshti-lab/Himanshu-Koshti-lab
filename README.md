@@ -1,13 +1,13 @@
 ### Hi there 👋, Myself Himanshu Koshti
-####  Associate Consultant at Capgemini 
+####   Consultant at Capgemini 
 4+ years experienced Software Engineer highly skilled in Application development across the complete development life cycle of an application. I'm always learning new things and tried to implement in current project which help to maintain productivity and creativity.
 
-Skills: JAVA 8 / SPRINGBOOT / SPRING SECURITY / LOg4J / LOGBACK / HTML / CSS 
+Skills: JAVA 8 / SPRINGBOOT / SPRING SECURITY / LOG4J / LOGBACK / GITHUB /HTML / CSS
 
 - 🔭 I’m currently working on Spring Boot and Spring Security
-- 🌱 I’m currently learning GitHub Actions
-- 👯 I’m looking to collaborate on Web Development 
-- 🤔 I’m looking for help with Web Developer Role 
+- 🌱 I’m currently learning HTML/CSS to get deep dive in react.
+- 👯 I’m looking to collaborate on Web Development projects
+- 🤔 I’m looking for Web Developer Role in Remote based company.
 - 📫 How to reach me: Himanshukoshti74@gmail.com 
 
 
