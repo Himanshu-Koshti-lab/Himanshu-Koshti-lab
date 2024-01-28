@@ -4,7 +4,7 @@
 
 Skills: JAVA 8 / SPRINGBOOT / SPRING SECURITY / LOG4J / LOGBACK / GITHUB /HTML / CSS
 
-- 🔭 I’m currently working on Spring Boot and Spring Security
+- 🔭 I’m currently working on Spring Boot and Spring Security/cloud
 - 🌱 I’m currently learning HTML/CSS to get deep dive in react.
 - 👯 I’m looking to collaborate on Web Development projects
 - 🤔 I’m looking for Web Developer Role in Remote based company.
