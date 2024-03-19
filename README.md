@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **Consultant at Capgemini**
 
-- 🌱 I’m currently learning **Spring Boot and Spring Security/cloud**
+- 🌱 I’m currently learning **Spring Cloud and Spring Security**
 
-- 💬 Ask me about **JAVA 8 / SPRINGBOOT / SPRING SECURITY / LOG4J / LOGBACK / GITHUB /HTML / CSS**
+- 💬 Ask me about **JAVA 8 / SPRINGBOOT / SPRING SECURITY / PROMETHEUS / LOGBACK / GITHUB /HTML / CSS**
 
 - 📫 How to reach me **Himanshukoshti74@gmail.com**
 
