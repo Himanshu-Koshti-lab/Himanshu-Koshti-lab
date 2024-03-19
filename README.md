@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Himanshu Koshti</h1>
-<h3 align="center">4+ years experienced Software Engineer highly skilled in Application development across the complete development life cycle of an application. I'm always learning new things and tried to implement in current project which help to maintain productivity and creativity.</h3>
+<h3 align="center">4.3+ years experienced Software Engineer highly skilled in Application development across the complete development life cycle of an application. I'm always learning new things and tried to implement in current project which help to maintain productivity and creativity.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshu-koshti-lab&label=Profile%20views&color=0e75b6&style=flat" alt="himanshu-koshti-lab" /> </p>
 
