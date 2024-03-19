@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Spring Cloud and Spring Security**
 
-- 💬 Ask me about **JAVA 8 / SPRINGBOOT / SPRING SECURITY / JIRA / HASHICORP / LOGBACK / GITHUB /HTML / CSS**
+- 💬 Ask me about **JAVA 8 - 17 / SPRINGBOOT / SPRING SECURITY / JIRA / HASHICORP / LOGBACK / GITHUB /HTML / CSS**
 
 - 📫 How to reach me **Himanshukoshti74@gmail.com**
 
