@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=himanshu-koshti-lab" alt="himanshu-koshti-lab" /></a> </p>
 
-- 🔭 I’m currently working on **Consultant at Capgemini**
+- 🔭 I’m currently working with **Capgemini Company as a Consultant**
 
 - 🌱 I’m currently learning **Spring Cloud and Spring Security**
 
-- 💬 Ask me about **JAVA 8 / SPRINGBOOT / SPRING SECURITY / PROMETHEUS / LOGBACK / GITHUB /HTML / CSS**
+- 💬 Ask me about **JAVA 8 / SPRINGBOOT / SPRING SECURITY / JIRA / HASHICORP / LOGBACK / GITHUB /HTML / CSS**
 
 - 📫 How to reach me **Himanshukoshti74@gmail.com**
 
