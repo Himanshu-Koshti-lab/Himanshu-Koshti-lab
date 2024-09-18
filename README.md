@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=himanshu-koshti-lab" alt="himanshu-koshti-lab" /></a> </p>
 
-- 🔭 I’m currently working with **Capgemini Company as a Consultant**
+- 🔭 I’m currently working with **TekSystems Company as a Senior Software Engineer**
 
 - 🌱 I’m currently learning **Spring Cloud and Spring Security with MicroService**
 
-- 💬 Ask me about **JAVA 8 - 17 / SPRINGBOOT / SPRING SECURITY / JIRA / HASHICORP / LOGBACK / GITHUB /HTML / CSS**
+- 💬 Ask me about **JAVA 8 - 17 - 21 / SPRINGBOOT / SPRING SECURITY / JIRA / HASHICORP / LOGBACK / GITHUB /HTML / CSS**
 
-- 📫 How to reach me **Himanshukoshti74@gmail.com**
+- 📫 How to reach me **Himanshukoshti94@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
