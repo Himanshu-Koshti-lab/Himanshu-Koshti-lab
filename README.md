@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Himanshu Koshti</h1>
 <h3 align="center">4.6+ years experienced Software Engineer highly skilled in Application development across the complete development life cycle of an application. I'm always learning new things and tried to implement in current project which help to maintain productivity and creativity.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshu-koshti-lab&label=Profile%20views&color=0e75b6&style=flat" alt="himanshu-koshti-lab" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=himanshu-koshti-lab" alt="himanshu-koshti-lab" /></a> </p>
 
 - 🔭 I’m currently working with **TekSystems Company as a Senior Software Engineer**
