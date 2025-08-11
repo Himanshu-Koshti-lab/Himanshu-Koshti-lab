@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working with **TekSystems Company as a Senior Software Engineer**
 
-- 🌱 I’m currently learning **Spring Cloud and Spring Security with MicroService**
+- 🌱 I’m currently learning **Spring Native with MicroService**
 
 - 💬 Ask me about **JAVA 8 - 17 - 21 - 24 / SPRINGBOOT / SPRING SECURITY / JIRA / HASHICORP / LOGBACK / GITHUB /HTML / CSS**
 
