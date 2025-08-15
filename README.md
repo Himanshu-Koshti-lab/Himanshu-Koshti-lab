@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Spring Native with MicroService**
 
-- 💬 Ask me about **JAVA 8 - 17 - 21 - 24 / SPRINGBOOT / SPRING SECURITY / JIRA / HASHICORP / LOGBACK / GITHUB /HTML / CSS**
+- 💬 Ask me about **JAVA 8 - 17 - 21 - 24 / SPRINGBOOT / SPRING / JIRA / LOGBACK / GIT / HTML / CSS**
 
 - 📫 How to reach me **Himanshukoshti94@outlook.com**
 
