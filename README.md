@@ -57,16 +57,6 @@
 
 ---
 
-## 🚀 Featured Projects  
-
-| Project | Description | Tech Stack | Link |
-|---------|-------------|------------|------|
-| 🛒 **E-Shopping Microservice App** | A full microservice-based shopping platform with product, order, vendor & payment services. | Spring Boot, Spring Security (JWT), PostgreSQL, Kafka, Docker | [🔗 GitHub](https://github.com/himanshu-koshti-lab) |
-| 🎓 **Student Batch Processor** | Handles 1M+ students with batch/sub-batch processing, retries, and logs. | Java 17, ScheduledExecutorService, H2 DB | [🔗 Case Study](#) |
-| 📊 **Batch Monitor Dashboard** | React + Chart.js dashboard for batch status, logs, retry history. | React.js, Tailwind, Recharts | [🔗 GitHub](#) |
-
----
-
 ## 📊 GitHub Stats  
 
 <div align="center">
