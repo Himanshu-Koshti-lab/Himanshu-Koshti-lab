@@ -7,7 +7,7 @@
 
 ## 👨‍💻 About Me  
 🔭 Currently working with **TekSystems** as a **Senior Software Engineer**  
-🌱 Learning **Spring Native with Microservices & Cloud Native Development**  
+🌱 Learning **React and Its Components**  
 💬 Ask me about **Java 8 → 17 → 24, Spring Boot, Microservices, Logback, Git, React**  
 ⚡ Fun fact: I believe in **"Code → Learn → Share → Repeat"**  
 📫 Reach me: **Himanshukoshti94@outlook.com**  
