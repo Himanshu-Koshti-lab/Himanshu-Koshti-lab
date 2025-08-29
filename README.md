@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Himanshu Koshti</h1>
+<h1 align="center">Hi 👋, Myself Himanshu Koshti</h1>
 <h3 align="center">
 💻 Senior Software Engineer | Java Backend Developer | React Enthusiast  
 </h3>
@@ -10,7 +10,6 @@
 🌱 Learning **React and Its Components**  
 💬 Ask me about **Java 8 → 17 → 24, Spring Boot, Microservices, Logback, Git, React**  
 ⚡ Fun fact: I believe in **"Code → Learn → Share → Repeat"**  
-📫 Reach me: **Himanshukoshti94@outlook.com**  
 
 ---
 
