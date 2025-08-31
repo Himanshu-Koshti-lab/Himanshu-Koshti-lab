@@ -51,7 +51,7 @@
 - Git, GitHub, Postman, Linux, IntelliJ IDEA, VS Code  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,postgres,mysql,oracle,mongodb,docker,linux,aws,git,github,react,html,css,js,kafka,grafana,postman" />
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,postgres,mysql,docker,linux,aws,git,github,react,html,css,js,kafka,grafana,postman" />
 </p>
 
 ---
