@@ -79,4 +79,4 @@
 
 ---
 
-✨ *“Great code is not just written, it’s crafted.”* 🚀  
+✨ *“Great code is not just written, It’s crafted.”* 🚀  
