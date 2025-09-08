@@ -9,7 +9,7 @@
 🔭 Currently working with **TekSystems** as a **Senior Software Engineer**  
 🌱 Learning **React and Its Components**  
 💬 Ask me about **Java 8 → 17 → 24, Spring Boot, Microservices, Logback, Git, React**  
-⚡ Fun fact: I believe in **"Code → Learn → Share → Repeat"**  
+ 
 
 ---
 
