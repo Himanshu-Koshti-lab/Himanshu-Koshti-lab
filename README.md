@@ -36,7 +36,7 @@
 - **Architecture:** Microservices, Event-Driven (Kafka, RabbitMQ), REST, GraphQL  
 
 ### 🎨 Frontend  
-- React.js, Redux, JavaScript, HTML5, CSS3
+- React.js, JavaScript, HTML5, CSS3
 
 ### 🗄️ Databases  
 - PostgreSQL, MySQL, Oracle
