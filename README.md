@@ -48,7 +48,7 @@
 - Grafana, Prometheus, Logback, ELK  
 
 ### 🛡️ Tools & Others  
-- Git, GitHub, Postman, Linux, IntelliJ IDEA, VS Code  
+- Git, GitHub, Postman, Linux, IntelliJ IDEA, Visual Studio Code  
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,postgres,mysql,docker,linux,aws,git,github,react,html,css,js,kafka,grafana,postman" />
