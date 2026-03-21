@@ -30,12 +30,12 @@
 ## 🛠️ Tech Stack  
 
 ### 🚀 Backend  
-- **Languages:** Java (8–24), SQL, PL/SQL, Bash  
-- **Frameworks:** Spring Boot, Spring Cloud, Hibernate, JPA  
+- **Languages:** Java (8–24), SQL, JavaScript.
+- **Frameworks:** Spring Boot, Spring Cloud, Hibernate, JPA 
 - **Architecture:** Microservices, Event-Driven (Kafka, RabbitMQ), REST, GraphQL  
 
 ### 🎨 Frontend  
-- React.js, JavaScript, HTML5, CSS3
+- React.js, JavaScript, HTML, CSS
 
 ### 🗄️ Databases  
 - PostgreSQL, MySQL, Oracle
